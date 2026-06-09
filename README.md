@@ -31,7 +31,7 @@ A responsive personal budget tracking web app built with vanilla HTML, CSS, and 
 
 ## Screenshots
 
-_Coming soon_
+![FinFlow Dashboard](screenshot.png)
 
 ## Author
 
